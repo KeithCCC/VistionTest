@@ -1,0 +1,159 @@
+Files list 
+File names: 201608221415_CMG001160704CAM001_U050_01.jpg
+File names: 201608221415_CMG001160704CAM001_U051_01.jpg
+File names: 201608221415_CMG001160704CAM001_U051_02.jpg
+File names: 201608221415_CMG001160704CAM001_U052_01.jpg
+File names: 201608221415_CMG001160704CAM001_U054_01.jpg
+File names: 201608221415_CMG001160704CAM001_U054_02.jpg
+File names: 201608221415_CMG001160704CAM001_U060_01.jpg
+File names: 201608221415_CMG001160704CAM001_U065_01.jpg
+File names: 201608221415_CMG001160704CAM001_U067_01.jpg
+File names: 201608221415_CMG001160704CAM001_U068_01.jpg
+File names: 201608221415_CMG001160704CAM001_U069_01.jpg
+File names: 201608221415_CMG001160704CAM001_U073_01.jpg
+File names: 201608221415_CMG001160704CAM001_U075_01.jpg
+File names: 201608221415_CMG001160704CAM001_U076_01.jpg
+File names: 201608221415_CMG001160704CAM001_U076_02.jpg
+File names: 201608221415_CMG001160704CAM001_U077_01.jpg
+File names: 201608221415_CMG001160704CAM001_U077_02.jpg
+File names: 201608221415_CMG001160704CAM001_U082_01.jpg
+File names: 201608221415_CMG001160704CAM001_U083_01.jpg
+File names: 201608221415_CMG001160704CAM001_U084_01.jpg
+File names: 201608221415_CMG001160704CAM001_U087_01.jpg
+File names: 201608221415_CMG001160704CAM001_U087_02.jpg
+File names: test1111.jpg
+File names: test2.jpg
+Vison error: 201608221415_CMG001160704CAM001_U050_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U050_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U051_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U051_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U051_02.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U051_02.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U052_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U052_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U054_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U054_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U054_02.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U054_02.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U060_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U060_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U067_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U067_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U065_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U065_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U068_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U068_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U069_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U069_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U075_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U075_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U073_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U073_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U076_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U076_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U076_02.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U076_02.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U077_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U077_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U077_02.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U077_02.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U082_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U082_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U083_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U083_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U084_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U084_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U087_01.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U087_01.jpg'
+Vison error: 201608221415_CMG001160704CAM001_U087_02.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\201608221415_CMG001160704CAM001_U087_02.jpg'
+Vison error: test1111.jpg :Error: ENOENT: no such file or directory, open 'F:\GoogleDrive\Code\vision\test\test1111.jpg'
+[ 'FamilyMart\n桜台二丁目店\n東京都練馬区桜台2-9-4\n電話: 03-5946-2261\n領収証\n2016年7月13日 (水) 20:06\nグリーンスムージー\n¥178\n専白桃モッチ\n¥135\nKEN\'Sクレームショ ¥220\n粒苺ソースふんわりかき ¥162\nC.C.レモン600P ¥139\nチョコフレークグラッシ ¥119\nリカルデントグレープ、 #123\n小計\n¥1, 076\n¥1 076\n(内消費税等\n¥79)\nTポイント利用\n¥76\n現金領収額\n¥1, 000\nお預り\n¥1, 000\n7326312\n700\n1121111\n21\n11\n:合\n',
+  'FamilyMart',
+  '桜',
+  '台',
+  '二',
+  '丁目',
+  '店',
+  '東京',
+  '都',
+  '練',
+  '馬',
+  '区',
+  '桜',
+  '台',
+  '2-9-4',
+  '電話',
+  ':',
+  '03-5946-2261',
+  '領',
+  '収',
+  '証',
+  '2016',
+  '年',
+  '7',
+  '月',
+  '13',
+  '日',
+  '(',
+  '水',
+  ')',
+  '20:06',
+  'グリーン',
+  'スムージー',
+  '¥',
+  '178',
+  '専白',
+  '桃',
+  'モッチ',
+  '¥',
+  '135',
+  'KEN',
+  '\'S',
+  'クレーム',
+  'ショ',
+  '¥',
+  '220',
+  '粒苺',
+  'ソース',
+  'ふんわり',
+  'かき',
+  '¥',
+  '162',
+  'C.C.',
+  'レモン',
+  '600P',
+  '¥',
+  '139',
+  'チョコ',
+  'フレーク',
+  'グラッシ',
+  '¥',
+  '119',
+  'リカルデント',
+  'グレープ',
+  '、',
+  '#',
+  '123',
+  '小',
+  '計',
+  '¥',
+  '1',
+  ',',
+  '076',
+  '¥',
+  '1',
+  '076',
+  '(',
+  '内',
+  '消費',
+  '税',
+  '等',
+  '¥',
+  '79',
+  ')',
+  'T',
+  'ポイント',
+  '利用',
+  '¥',
+  '76',
+  '現金',
+  '領',
+  '収',
+  '額',
+  '¥',
+  '1',
+  ',',
+  '000',
+  'お',
+  '預り',
+  '¥',
+  '1',
+  ',',
+  '000',
+  '7326312',
+  '700',
+  '1121111',
+  '21',
+  '11',
+  ':',
+  '合',
+  errors: [] ]
